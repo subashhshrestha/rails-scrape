@@ -2,7 +2,6 @@
 
 require 'open-uri'
 require 'nokogiri'
-require 'pry'
 
 class ScrapingService
   def initialize(hamrobazaar_url)
